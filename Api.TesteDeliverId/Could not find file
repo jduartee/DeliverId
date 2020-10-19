@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api.TesteDeliverId</name>
+    </assembly>
+    <members>
+        <member name="M:Api.TesteDeliverId.Controllers.AccountController.Create(API.Features.ContaFeatures.Commands.CreateAccountCommand)">
+            <summary>
+            Creates a New Account.
+            </summary>
+            <param name="command"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.TesteDeliverId.Controllers.AccountController.GetAll">
+            <summary>
+            Gets all Accounts.
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
